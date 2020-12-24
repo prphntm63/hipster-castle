@@ -1,7 +1,9 @@
 # Hipster Castle Brewing
+
 This repo is a work in progress for my personal brewing website. Readme will be used for ideas and concepts for the time being.
 
 ### FE structure
+
 - Home
   - "On tap at a glance"
 - Taplist
@@ -10,6 +12,7 @@ This repo is a work in progress for my personal brewing website. Readme will be 
   - Printable
 
 ### Database Structure
+
 - App Constants
   - Keg Tare
 - Users
